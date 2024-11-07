@@ -54,7 +54,6 @@ def on_button_pressed_b():
     if column > 4:
             column = 4
 
-
 input.on_button_pressed(Button.A, on_button_pressed_a)
 input.on_button_pressed(Button.B, on_button_pressed_b)
 
