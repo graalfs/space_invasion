@@ -1,6 +1,6 @@
 from microbit import *
 
-#basic.show_string("Hallo Frida!")
+basic.show_string("Hallo Frida!")
 
 column = randint(0,4)
 i = 0
